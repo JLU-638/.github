@@ -1,8 +1,8 @@
 # Hi three 👋, this is 638-Group!
-Solar Group, School of Mathematics and School of Artificial Intelligence, Jilin University, Changchun City, Jilin Province, China.
+**638 Group**, School of Mathematics and School of Artificial Intelligence, Jilin University, Changchun City, Jilin Province, China.
 
 ## Research Fields
-Computer Vision, Natural Language Processing, Computer Graphics etc.
+Computer Vision, Deep Learning, Machine Learning, Big Language Models, Natural Language Processing, Computer Graphics, Remote Sensing, Physics Informed Neural Netorks, Time Series Prediction, Topological Data Analysis, Image Processing, Image Enhancement, Image Deblurr, Image Denoise, Generative Adversarial Networks etc.
 
 ### Page of Organization:
 To be created.
